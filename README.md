@@ -3,4 +3,5 @@
 ### CPP
 |내용|비고|
 |---|---|
-|[CPP개요](https://velog.io/@kuronuma_daisy/CPP-%EA%B0%9C%EC%9A%94)||
+|[CPP 개요](https://velog.io/@kuronuma_daisy/20231212CPP)||
+|[변수, 연산자](https://velog.io/@kuronuma_daisy/20231213cpp)||
