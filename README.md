@@ -12,3 +12,5 @@
 |[콘솔게임(TextRpg), 난수 unsigned, 객체지향, 클래스 개요](https://velog.io/@kuronuma_daisy/20231220CPP)||
 |[접근 지정자, Struct, 생성자, 오버로딩](https://velog.io/@kuronuma_daisy/20231221CPP)||
 |[2차원 배열, 콘솔게임(총알)](https://velog.io/@kuronuma_daisy/20231222CPP)||
+|[바이트 패딩, 클래스 메모리, 선언과 구현 분리, 레퍼런스 추가 예시](https://velog.io/@kuronuma_daisy/20231226CPP)||
+|||
