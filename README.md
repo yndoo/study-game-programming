@@ -13,4 +13,4 @@
 |[접근 지정자, Struct, 생성자, 오버로딩](https://velog.io/@kuronuma_daisy/20231221CPP)||
 |[2차원 배열, 콘솔게임(총알)](https://velog.io/@kuronuma_daisy/20231222CPP)||
 |[바이트 패딩, 클래스 메모리, 선언과 구현 분리, 레퍼런스 추가 예시](https://velog.io/@kuronuma_daisy/20231226CPP)||
-|||
+|[파일 경로, 포함 디렉터리, 순환 참조, extern 변수, 클래스 전방 선언, 상속](https://velog.io/@kuronuma_daisy/20231227CPP#%EC%83%81%EC%86%8D)||
