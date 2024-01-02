@@ -16,3 +16,4 @@
 |[파일 경로, 포함 디렉터리, 순환 참조, extern 변수, 클래스 전방 선언, 상속](https://velog.io/@kuronuma_daisy/20231227CPP#%EC%83%81%EC%86%8D)||
 |[상속 심화(생성자 순서, Has-A Is-A 관계, 업캐스팅, 다운캐스팅, 다중 상속)](https://velog.io/@kuronuma_daisy/20231228CPP)||
 |[오버라이딩, 다형성, TextRpg에 (마을,강화,치료,골드) 추가](https://velog.io/@kuronuma_daisy/20231229CPP)||
+|[함수 포인터, TextRpg에 플레이어 경험치, 레벨업 추가](https://velog.io/@kuronuma_daisy/20240102CPP)||
