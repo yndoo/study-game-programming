@@ -17,4 +17,7 @@
 |[상속 심화(생성자 순서, Has-A Is-A 관계, 업캐스팅, 다운캐스팅, 다중 상속)](https://velog.io/@kuronuma_daisy/20231228CPP)||
 |[오버라이딩, 다형성, TextRpg에 (마을,강화,치료,골드) 추가](https://velog.io/@kuronuma_daisy/20231229CPP)||
 |[함수 포인터, TextRpg에 플레이어 경험치, 레벨업 추가](https://velog.io/@kuronuma_daisy/20240102CPP)||
-|[함수 포인터, 가상함수 테이블, 동적 할당, 자잘한 문법들](https://velog.io/@kuronuma_daisy/20240103CPP)||
+|[함수 포인터, 가상함수 테이블, 동적 할당(1), 자잘한 문법들](https://velog.io/@kuronuma_daisy/20240103CPP)||
+|[동적 할당(2), 댕글링 포인터, 라이브러리 만들기](https://velog.io/@kuronuma_daisy/20240104CPP)||
+|[Assert, 입력 버퍼와 하드웨어 동작](https://velog.io/@kuronuma_daisy/20240105CPP)||
+|[소멸자, 클래스 디폴트 기능, 자료구조 개요, 깊은 복사와 얕은 복사](https://velog.io/@kuronuma_daisy/20240108CPP)||
