@@ -21,3 +21,4 @@
 |[동적 할당(2), 댕글링 포인터, 라이브러리 만들기](https://velog.io/@kuronuma_daisy/20240104CPP)||
 |[Assert, 입력 버퍼와 하드웨어 동작](https://velog.io/@kuronuma_daisy/20240105CPP)||
 |[소멸자, 클래스 디폴트 기능, 자료구조 개요, 깊은 복사와 얕은 복사](https://velog.io/@kuronuma_daisy/20240108CPP)||
+|[template, template 클래스, std, stl 개론, ArrayResize 과제](https://velog.io/@kuronuma_daisy/20240109CPP)||
