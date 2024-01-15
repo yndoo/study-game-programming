@@ -24,3 +24,5 @@
 |[template, template 클래스, std, stl 개론, ArrayResize 과제](https://velog.io/@kuronuma_daisy/20240109CPP)||
 |[STL 자료구조(vector, node)](https://velog.io/@kuronuma_daisy/20240110CPP)||
 |[Inner Class, friend 문법, STL 자료구조(list, map) 만들어보기](https://velog.io/@kuronuma_daisy/20240111CPP)||
+|[재귀, STL 자료구조 Map 따라하기](https://velog.io/@kuronuma_daisy/20240112CPP)||
+|[갤러그 리팩토링](https://velog.io/@kuronuma_daisy/20240115CPP)||
