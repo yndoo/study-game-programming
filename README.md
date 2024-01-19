@@ -26,3 +26,5 @@
 |[Inner Class, friend 문법, STL 자료구조(list, map) 만들어보기](https://velog.io/@kuronuma_daisy/20240111CPP)||
 |[재귀, STL 자료구조 Map 따라하기](https://velog.io/@kuronuma_daisy/20240112CPP)||
 |[갤러그 리팩토링](https://velog.io/@kuronuma_daisy/20240115CPP)||
+|[디폴트 인자, static, 콘솔 지렁이게임 만들기](https://velog.io/@kuronuma_daisy/20240116CPP)||
+|[C++ 마무리(인코딩, String, Release와 Debug 차이), WinApi 시작](https://velog.io/@kuronuma_daisy/20240119CPP)||
