@@ -28,3 +28,9 @@
 |[갤러그 리팩토링](https://velog.io/@kuronuma_daisy/20240115CPP)||
 |[디폴트 인자, static, 콘솔 지렁이게임 만들기](https://velog.io/@kuronuma_daisy/20240116CPP)||
 |[C++ 마무리(인코딩, String, Release와 Debug 차이), WinApi 시작](https://velog.io/@kuronuma_daisy/20240119CPP)||
+
+### WinApi
+|내용|비고|
+|---|---|
+|[함수 delete, RValue, try-catch문, 템플릿 만들기, WinApi 아주 조금 복습](https://velog.io/@kuronuma_daisy/20240122CPP)||
+|||
