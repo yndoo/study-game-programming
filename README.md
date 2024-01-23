@@ -32,5 +32,5 @@
 ### WinApi
 |내용|비고|
 |---|---|
-|[함수 delete, RValue, try-catch문, 템플릿 만들기, WinApi 아주 조금 복습](https://velog.io/@kuronuma_daisy/20240122CPP)||
-|||
+|[함수 delete, RValue, try-catch문, 템플릿 만들기, WinApi 아주 조금 복습](https://velog.io/@kuronuma_daisy/20240122WinApi)||
+|[근본이 되는 Engine 만들기 시작, string_view](https://velog.io/@kuronuma_daisy/20240123WinApi)||
