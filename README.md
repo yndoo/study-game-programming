@@ -35,3 +35,4 @@
 |[함수 delete, RValue, try-catch문, 템플릿 만들기, WinApi 아주 조금 복습](https://velog.io/@kuronuma_daisy/20240122WinApi)||
 |[근본이 되는 Engine 만들기 시작, string_view](https://velog.io/@kuronuma_daisy/20240123WinApi)||
 |[Range-based for문, 엔진 구조(레벨 생성과 Tick흐름)](https://velog.io/@kuronuma_daisy/20240124WinApi)||
+|[union, 엔진(렌더링 추가, Hp바 만들어보기)](https://velog.io/@kuronuma_daisy/20240128WinApi)||
