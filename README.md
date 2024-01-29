@@ -36,3 +36,5 @@
 |[근본이 되는 Engine 만들기 시작, string_view](https://velog.io/@kuronuma_daisy/20240123WinApi)||
 |[Range-based for문, 엔진 구조(레벨 생성과 Tick흐름)](https://velog.io/@kuronuma_daisy/20240124WinApi)||
 |[union, 엔진(렌더링 추가, Hp바 만들어보기)](https://velog.io/@kuronuma_daisy/20240128WinApi)||
+|[디자인 패턴(싱글톤), 엔진(파일 경로 기능 추가)](https://velog.io/@kuronuma_daisy/20240129WinApi)||
+|||
