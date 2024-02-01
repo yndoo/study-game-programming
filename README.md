@@ -37,4 +37,7 @@
 |[Range-based for문, 엔진 구조(레벨 생성과 Tick흐름)](https://velog.io/@kuronuma_daisy/20240124WinApi)||
 |[union, 엔진(렌더링 추가, Hp바 만들어보기)](https://velog.io/@kuronuma_daisy/20240128WinApi)||
 |[디자인 패턴(싱글톤), 엔진(파일 경로 기능 추가)](https://velog.io/@kuronuma_daisy/20240129WinApi)||
+|[엔진 - 이미지 로드, 렌더링](https://velog.io/@kuronuma_daisy/20240130WinApi)||
+|[240131 수업 낙서](https://velog.io/@kuronuma_daisy/240131WinApi)||
+|[엔진 - 애니메이션](https://velog.io/@kuronuma_daisy/20240201WinApi)||
 |||
