@@ -40,4 +40,4 @@
 |[엔진 - 이미지 로드, 렌더링](https://velog.io/@kuronuma_daisy/20240130WinApi)||
 |[240131 수업 낙서](https://velog.io/@kuronuma_daisy/240131WinApi)||
 |[엔진 - 애니메이션](https://velog.io/@kuronuma_daisy/20240201WinApi)||
-|||
+|[포트폴리오(Kirby Squeak Squad) 레벨 계획](https://velog.io/@kuronuma_daisy/20240202WinApi#%ED%94%8C%EB%A0%88%EC%9D%B4-%EB%A0%88%EB%B2%A8)||
